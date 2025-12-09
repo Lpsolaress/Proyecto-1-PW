@@ -206,8 +206,7 @@ run().catch(console.dir);
 
 2. Inicia el servidor:
    ```bash
-   cd frontend/
-   npm start
+    node "Chat Server.js"
    ```
 
 3. Abre tu navegador y ve a:
