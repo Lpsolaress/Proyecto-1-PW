@@ -8,7 +8,7 @@ Este proyecto es una aplicación web completa con **autenticación JWT**, **gest
 - ✅ Sistema de registro y login con JWT
 - ✅ Dos roles de usuario: **Usuario** y **Administrador**
 - ✅ Contraseñas encriptadas con bcrypt
-- ✅ Tokens JWT con expiración de 7 días
+- ✅ Tokens JWT con expiración 
 - ✅ Protección de rutas API y Socket.io con middleware JWT
 
 ### 2. **Gestión de Productos (CRUD)**
